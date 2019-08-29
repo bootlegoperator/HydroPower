@@ -7,6 +7,6 @@ public class HydroPower {
     * @param args arguments for starting the program
     */
     public static void main(String[] args) {
-        System.out.println("lmao");
+        System.out.println("Testing... should run");
     }
 }
